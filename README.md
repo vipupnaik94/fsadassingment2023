@@ -1,1 +1,8 @@
-# 2023mt93258-fullstack
+FULL STACK APPLICATION DEVELOPMENT - SEZG503 ASSIGNMENT
+							BOOK EXCHANGE PLATFORM
+
+Group Members
+1. Maheswaran P – 2023MT93248
+2. Jeebu Karthikeyan – 2023MT93258
+3. Mounika Veeramreddy – 2023MT93247
+4. Adithi Krishnan – 2023MT93260
